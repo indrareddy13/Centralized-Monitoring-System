@@ -15,10 +15,7 @@ This project introduces a Centralized Monitoring System designed to enhance the 
     - [Software Side](#software-side)
     - [Connection Between Hardware and Software](#connection-between-hardware-and-software)
 7. [Implementation](#implementation)
-8. [Results and Discussion](#results-and-discussion)
-9. [Conclusion](#conclusion)
-10. [Future Work](#future-work)
-11. [Contact Information](#contact-information)
+8. [Contact Information](#contact-information)
 
 ## Introduction
 Street lighting is essential for public safety, yet traditional maintenance approaches often result in inefficiencies. This project proposes a centralized system leveraging advanced technology for real-time monitoring, fault detection, and location tracking of street lights. The goal is to streamline maintenance, reduce downtime, and enhance urban infrastructure resilience.
